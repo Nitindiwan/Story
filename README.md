@@ -1,2 +1,3 @@
 # Story
-File contaning story
+File contaning story.
+Adding first story.
